@@ -1,6 +1,8 @@
 # importing the required modules
 import os
 import argparse
+
+# the code of this python script is freely available at: https://www.geeksforgeeks.org/command-line-interface-programming-python/
   
 # error messages
 INVALID_FILETYPE_MSG = "Error: Invalid file format. %s must be a .txt file."
